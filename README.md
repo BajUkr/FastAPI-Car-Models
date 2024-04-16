@@ -11,12 +11,12 @@ This project is a RESTful API built with FastAPI for managing car models. It inc
 
 ## Installation
 
-To set up the project, you will need Python 3.6+ installed on your machine.
+To set up the project, you will need Python 3.8+ installed on your machine.
 
 1. **Clone the Repository:**
 
    ```sh
-   git clone github.com/BajUkr/FastAPI-Car-Models.git
+   git clone https://github.com/BajUkr/FastAPI-Car-Models.git
    cd FastAPIproject
    ```
 
